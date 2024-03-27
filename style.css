@@ -31,3 +31,11 @@ body{
     align-items: center;
     margin: 0 auto;
 }
+
+.imagens{
+    width: 25%;
+    height: 350px;
+}
+.meta{ 
+    display: flex;
+}
